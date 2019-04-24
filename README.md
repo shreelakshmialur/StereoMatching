@@ -2,6 +2,7 @@
 Python program for a stereo analysis system involving feature-based, region-based and multi-resolution matching.
 
 Stereo Matching is done using two methods. Namely, Region based, and feature based. The matching scores available are SSD, SAD and NCC. Either can be selected in the terminal.
+
 Steps:
 • At a given level, stereo matching is done, and disparity calculated.
 • Validity check is then performed, wherein if the left-to-right match does not correspond
